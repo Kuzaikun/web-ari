@@ -21,3 +21,7 @@
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('/about','AboutController@index');
+
+//Route::post('/about','AboutController@multiplyTable'); asd
