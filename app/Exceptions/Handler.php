@@ -44,7 +44,7 @@ class Handler extends ExceptionHandler
      */
     public function render($request, Exception $exception)
     {
-        return parent::render($request, $exception);
+        return parent::render($request, $exception); //Default not found
     }
 
     /**
@@ -62,4 +62,6 @@ class Handler extends ExceptionHandler
 
         return redirect()->guest(route('login'));
     }
+
+
 }
