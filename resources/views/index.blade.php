@@ -6,13 +6,13 @@
 
 <body>
   <div class="container">
-    <header class="row">
+    <header>
       @include('layouts.header')
     </header>
-    <footer class="row">
+  
+    <footer>
       @include('layouts.footer')
     </footer>
   </div>
 </body>
-
 </html>

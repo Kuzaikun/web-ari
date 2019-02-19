@@ -1,8 +1,8 @@
 <meta charset="utf-8">
 <meta name="description" content="">
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Amazing Ari Web</title>
 
-<!-- load bootstrap from a cdn -->
-<link rel="stylesheet" href={{asset("css/app.css")}}>
+<!-- Load Styles-->
+<link href="{{ URL::asset('css/weaboostyle.css') }}" rel="stylesheet" type="text/css" >

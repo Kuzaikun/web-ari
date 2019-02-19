@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo');
+
+*{
+	padding:0;
+	margin:0;
+}
+
+header{
+	margin-bottom:200px;
+}
+
+body {
+  background-color: rgb(23,32,41);
+  font-family: 'Archivo', sans-serif;
+  color: rgb(255,255,255);
+}
+
+/* START OF THE MENU STYLE */
+div.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+/* END OF THE MENU STYLE */
+
+/*START OF THE OBVIOUSLY FOOTER*/
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  padding: 25px;
+}
+/*END OF THE OBVIOUSLY FOOTER*/
