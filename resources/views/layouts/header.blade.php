@@ -1,7 +1,10 @@
-<div class="scrollmenu">
-  <a href="/"><img class="img-isotype" src="{{URL::asset('images/isotipo1.png')}}"></a>
-  <a href="/">Home</a>
-  <a href="/about">News</a>
-  <a href="/projects">Contact</a>
-  <a href="/contact">About</a>
-</div>
+<header id="header">
+  <a href="index.html" class="title">Hyperspace</a>
+  <nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <!--li><a href="generic.html" class="active">Generic</a></li>
+      <li><a href="elements.html">Elements</a></li-->
+    </ul>
+  </nav>
+</header>

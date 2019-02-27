@@ -10,10 +10,10 @@
 				<div class="inner">
 					<nav>
 						<ul>
-							<li><a href="#intro">Welcome</a></li>
-							<li><a href="#one">Who we are</a></li>
-							<li><a href="#two">What we do</a></li>
-							<li><a href="#three">Get in touch</a></li>
+							<li><a href="#intro">Bienvenida</a></li>
+							<li><a href="#one">¿Quién soy?</a></li>
+							<li><a href="#two">¿Qué hago?</a></li>
+							<li><a href="#three">Sígueme</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -25,11 +25,11 @@
 				<!-- Intro -->
 					<section id="intro" class="wrapper style1 fullscreen fade-up">
 						<div class="inner">
-							<h1>Hyperspace</h1>
-							<p>Just another fine responsive site template designed by <a href="http://html5up.net">HTML5 UP</a><br />
-							and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
+							<h1>Kuzaikun</h1>
+							<p>Desarrollo web y aplicaciones.<br/>
+							   ¡Aventúrate a mi sitio!</p>
 							<ul class="actions">
-								<li><a href="#one" class="button scrolly">Learn more</a></li>
+								<li><a href="#one" class="button scrolly">Muéstrame</a></li>
 							</ul>
 						</div>
 					</section>
@@ -40,34 +40,11 @@
 							<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
 							<div class="content">
 								<div class="inner">
-									<h2>Sed ipsum dolor</h2>
-									<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+									<h2>Adrián Nájera</h2>
+									<p>La vida debe ser programada a base de buenas vibras.
+									<br/>¡Te invito a que conozcas un poco de mi!</p>
 									<ul class="actions">
-										<li><a href="generic.html" class="button">Learn more</a></li>
-									</ul>
-								</div>
-							</div>
-						</section>
-						<section>
-							<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
-							<div class="content">
-								<div class="inner">
-									<h2>Feugiat consequat</h2>
-									<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
-									<ul class="actions">
-										<li><a href="generic.html" class="button">Learn more</a></li>
-									</ul>
-								</div>
-							</div>
-						</section>
-						<section>
-							<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
-							<div class="content">
-								<div class="inner">
-									<h2>Ultricies aliquam</h2>
-									<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
-									<ul class="actions">
-										<li><a href="generic.html" class="button">Learn more</a></li>
+										<li><a href="generic.html" class="button">Más nformación</a></li>
 									</ul>
 								</div>
 							</div>
@@ -77,42 +54,32 @@
 				<!-- Two -->
 					<section id="two" class="wrapper style3 fade-up">
 						<div class="inner">
-							<h2>What we do</h2>
-							<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+							<h2>Experiencia</h2>
+							<p>Tengo experiencia en aplicaciones web con varias tecnologías. Me gusta mucho descubrir herramientas y aportar conocimiento a quien lo necesite. Estas son algunas características de mis desarrollos.</p>
 							<div class="features">
 								<section>
 									<span class="icon major fa-code"></span>
-									<h3>Lorem ipsum amet</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+									<h3>Desarrollo de aplicaciones</h3>
+									<p>¡Me gusta programar! En diversos lenguajes, usando los mejores frameworks para aportar valor al cliente.</p>
 								</section>
 								<section>
 									<span class="icon major fa-lock"></span>
-									<h3>Aliquam sed nullam</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+									<h3>Seguridad</h3>
+									<p>Los frameworks de desarrollo empresarial ofrecen en gran medida la seguridad que se requiere en la web.</p>
 								</section>
 								<section>
 									<span class="icon major fa-cog"></span>
-									<h3>Sed erat ullam corper</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+									<h3>Soporte técnico</h3>
+									<p>Experiencia en mantenimiento correctivo y preventivo a equipos de cómputo, laptops y desktops.</p>
 								</section>
 								<section>
 									<span class="icon major fa-desktop"></span>
-									<h3>Veroeros quis lorem</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-								</section>
-								<section>
-									<span class="icon major fa-chain"></span>
-									<h3>Urna quis bibendum</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-								</section>
-								<section>
-									<span class="icon major fa-diamond"></span>
-									<h3>Aliquam urna dapibus</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+									<h3>Diseño de páginas web</h3>
+									<p>Posiciono tu negocio en los primeros lugares con tu nueva web ¡Descubre el lado motivante del internet!</p>
 								</section>
 							</div>
 							<ul class="actions">
-								<li><a href="generic.html" class="button">Learn more</a></li>
+								<li><a href="generic.html" class="button">Ver portafolio</a></li>
 							</ul>
 						</div>
 					</section>
@@ -120,14 +87,14 @@
 				<!-- Three -->
 					<section id="three" class="wrapper style1 fade-up">
 						<div class="inner">
-							<h2>Get in touch</h2>
-							<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+							<h2>Mantente en contacto</h2>
+							<p>¿Te interesa contactarme? Ayúdame llenando el siguiente formulario para poder comunicarme a la brevedad contiigo.</p>
 							<div class="split style1">
 								<section>
 									<form method="post" action="#">
 										<div class="fields">
 											<div class="field half">
-												<label for="name">Name</label>
+												<label for="name">Nombre</label>
 												<input type="text" name="name" id="name" />
 											</div>
 											<div class="field half">
@@ -135,33 +102,27 @@
 												<input type="text" name="email" id="email" />
 											</div>
 											<div class="field">
-												<label for="message">Message</label>
+												<label for="message">Mensaje</label>
 												<textarea name="message" id="message" rows="5"></textarea>
 											</div>
 										</div>
 										<ul class="actions">
-											<li><a href="" class="button submit">Send Message</a></li>
+											<li><a href="" class="button submit">Envíar mensaje</a></li>
 										</ul>
 									</form>
 								</section>
 								<section>
 									<ul class="contact">
 										<li>
-											<h3>Address</h3>
-											<span>12345 Somewhere Road #654<br />
-											Nashville, TN 00000-0000<br />
-											USA</span>
-										</li>
-										<li>
 											<h3>Email</h3>
-											<a href="#">user@untitled.tld</a>
+											<a href="#">arien02.contacto@gmail.com</a>
 										</li>
 										<li>
-											<h3>Phone</h3>
-											<span>(000) 000-0000</span>
+											<h3>Teléfono</h3>
+											<span>(044) 55 24 19 49 57</span>
 										</li>
 										<li>
-											<h3>Social</h3>
+											<h3>Redes sociales</h3>
 											<ul class="icons">
 												<li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li>
 												<li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
@@ -179,13 +140,7 @@
 			</div>
 
 		<!-- Footer -->
-			<footer id="footer" class="wrapper style1-alt">
-				<div class="inner">
-					<ul class="menu">
-						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-					</ul>
-				</div>
-			</footer>
+			@include('layouts.footer')
 			@include('html-config.scripts')
 	</body>
 </html>
