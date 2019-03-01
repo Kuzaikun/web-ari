@@ -44,7 +44,7 @@
 									<p>La vida debe ser programada a base de buenas vibras.
 									<br/>¡Te invito a que conozcas un poco de mi!</p>
 									<ul class="actions">
-										<li><a href="generic.html" class="button">Más nformación</a></li>
+										<li><a href="/aboutari" class="button">Más nformación</a></li>
 									</ul>
 								</div>
 							</div>
@@ -79,7 +79,7 @@
 								</section>
 							</div>
 							<ul class="actions">
-								<li><a href="generic.html" class="button">Ver portafolio</a></li>
+								<li><a href="/portfolio" class="button">Ver portafolio</a></li>
 							</ul>
 						</div>
 					</section>
@@ -124,11 +124,11 @@
 										<li>
 											<h3>Redes sociales</h3>
 											<ul class="icons">
-												<li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li>
-												<li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
-												<li><a href="#" class="fa-github"><span class="label">GitHub</span></a></li>
-												<li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
-												<li><a href="#" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+												<li><a href="https://twitter.com/Kuzaikun" target="_blank" class="fa-twitter"><span class="label">Twitter</span></a></li>
+												<li><a href="https://www.facebook.com/Arien.Najera" target="_blank" class="fa-facebook"><span class="label">Facebook</span></a></li>
+												<li><a href="https://github.com/Kuzaikun" target="_blank" class="fa-github"><span class="label">GitHub</span></a></li>
+												<li><a href="https://www.instagram.com/ariennajera/" target="_blank" class="fa-instagram"><span class="label">Instagram</span></a></li>
+												<li><a href="https://www.linkedin.com/in/luis-adri%C3%A1n-quezada-n%C3%A1jera-6b5367163/" target="_blank" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
 											</ul>
 										</li>
 									</ul>
