@@ -25,3 +25,4 @@ Route::get('/', function () {
 Route::get('/aboutari','AboutAriController@index');
 
 //Route::post('/about','AboutController@multiplyTable'); asd
+Route::get('mail/send','MailController@send');
